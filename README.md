@@ -14,12 +14,6 @@
 ### About me:
 <p>I am B O O B S | E N G I N E E R <img src="https://media.giphy.com/media/L3kAoB1yUuLDtW3F3k/giphy.gif" width="30"> </p>
 
-- :japanese_ogre: I want to work as a Software Engineer and contribute to frontend for building web applications
-
-- :space_invader: Exploring technical documention
-
-- :ghost: In my free time, I am a cute girl who codes hard
-
 - :clown_face: I love memes and jokes
 
 ### Languages and Tools : 
